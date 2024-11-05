@@ -1,0 +1,32 @@
+.h1 {
+    text-align: center;
+    color: hotpink;
+}
+
+.container {
+    display: flex;
+    border-color:maroon palevioletred maroon palevioletred;
+}
+
+.item-1 {
+    background-color: rgb(101, 17, 17);
+}
+
+.item-2 {
+    background-color: rgb(191, 164, 122);
+}
+
+.item-3 {
+    background-color: rgb(53, 104, 105);
+}
+
+.item-4 {
+    background-color: rgb(111, 89, 52);
+}
+
+.kotak {
+    height: 670px;
+    width: 200px;
+    border: solid;
+    margin-right: 100px;
+}
